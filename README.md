@@ -57,7 +57,7 @@ The production-ready APK is located in the relases in Git Hub.
 Target OS: Android 8.0 (API level 26) or higher.
 
 $$ 👨‍💻 Author
-- Dilan Liyanaarachchi
+- Prabash Perera
 - University Project - AMD 
 
 
